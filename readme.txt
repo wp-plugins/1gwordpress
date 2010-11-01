@@ -1,4 +1,4 @@
-=== 1gWordpress ===
+=== 1g-music-share ===
 Contributors: 1g1g.info
 Tags: 1g1g, music, player, wordpress
 Requires at least: 2.5
@@ -18,13 +18,13 @@ This plugin inserts 1g1g-miniplayer (see http://code.google.com/p/1g1g/wiki/1g1g
 * Install directly from WordPress (just go to *Plugins* -> *Add New*) and activate.
 Or
 * Manually install to your WP plugins directory
-	1. Unzip`*1gWordpress.zip*`in the `*/wp-content/plugins/* directory.
+	1. Unzip`*1g-music-share.zip*`in the `*/wp-content/plugins/* directory.
 	2. Activate the plugin through the *Plugins* menu in WordPress.
 	3. All Done!
 	
 [安装方法]
 
-* 在管理面板中选择“插件”->“添加新插件”，搜索“1gWordpress”，看到“1gWordpress”，点击“安装”。在弹出页面的右上角点击“现在安装”。安装完成后点击“激活插件”。
+* 在管理面板中选择“插件”->“添加新插件”，搜索“1g-music-share”，看到“1g-music-share”，点击“安装”。在弹出页面的右上角点击“现在安装”。安装完成后点击“激活插件”。
 
 * 在“插件”->“插件”中，找到“1gWordpress”，点击启用.
 
