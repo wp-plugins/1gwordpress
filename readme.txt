@@ -9,9 +9,9 @@ This plugin inserts 1g1g-miniplayer into your posts and pages easily.（插入�
 
 == Description ==
 
-This plugin inserts 1g1g-miniplayer (see http://code.google.com/p/1g1g/wiki/1g1gminiplayer) into your posts and pages, playing any song you select to share.
+This plugin inserts 1g1g-miniplayer (see http://code.google.com/p/1g1g/wiki/1g1gminiplayer ) into your posts and pages, playing any song you select to share.
 
-此插件可以让您轻松地把亦歌迷你播放器(详见http://code.google.com/p/1g1g/wiki/1g1gminiplayer)插入到文章或页面中，播放任意您所选定的歌曲。
+此插件可以让您轻松地把亦歌迷你播放器(详见 http://code.google.com/p/1g1g/wiki/1g1gminiplayer )插入到文章或页面中，播放任意您所选定的歌曲。
 
 == Installation ==
 
