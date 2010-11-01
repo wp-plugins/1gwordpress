@@ -5,20 +5,20 @@ Requires at least: 2.5
 Tested up to: 3.0.1
 Stable Tag: /trunk
 
-This plugin helps you insert 1g1g-miniplayer into your posts and pages easily.（这个插件可以让你轻松地把亦歌迷你播放器插入到你的文章或页面中。）
+This plugin inserts 1g1g-miniplayer into your posts and pages easily.（插入亦歌迷你播放器到你的文章或页面中）
 
 == Description ==
 
-This is a plugin that it can help you insert 1g1g-miniplayer(see http://code.google.com/p/1g1g/wiki/1g1gminiplayer) into your posts and pages easily.
+This plugin inserts 1g1g-miniplayer (see http://code.google.com/p/1g1g/wiki/1g1gminiplayer) into your posts and pages, playing any song you select to share.
 
-这个插件可以让你轻松地把亦歌迷你播放器(详见http://code.google.com/p/1g1g/wiki/1g1gminiplayer)插入到你的文章或页面中。
+此插件可以让您轻松地把将歌迷你播放器(详见http://code.google.com/p/1g1g/wiki/1g1gminiplayer)插入到文章或页面中，播放任意您所选定的歌曲。
 
 == Installation ==
 
 * Install directly from WordPress (just go to *Plugins* -> *Add New*) and activate.
 Or
 * Manually install to your WP plugins directory
-	1. Unzip `1gWordpress.zip` in the `/wp-content/plugins/` directory.
+	1. Unzip`*1gWordpress.zip*`in the `*/wp-content/plugins/* directory.
 	2. Activate the plugin through the *Plugins* menu in WordPress.
 	3. All Done!
 	
